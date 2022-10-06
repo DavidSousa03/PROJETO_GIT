@@ -10,5 +10,15 @@ git add .
 git comit -m ""
 git push
 ----------------------
-para ver quantas vesões:
+Para ver quantas versões:
 git reflog
+----------------------
+Para voltar a versão anterior :
+git reflog
+git reset --hard `Colocar id da versão` 
+-----------------------
+Criar nova branch:
+git branch
+git branch staging
+-----------------
+para mudar de branch:	
