@@ -15,7 +15,7 @@ git reflog
 ----------------------
 Para voltar a versão anterior :
 git reflog
-git reset --hard `Colocar id da versão` 
+git reset --hard `Colocar id da versão` git 
 -----------------------
 Criar nova branch:
 git branch
@@ -33,3 +33,6 @@ git merge staging
 -----------------
 Para criar uma nova branch, com base na principal. Com um comando so:
 git checkout -b <branch> master 
+-----------------
+Processo PULL REQUEST :
+outro progamador vai avaliar sua modificacão
