@@ -3,3 +3,9 @@ git status
 git add .
 git commit -m ""
 git push
+----------------------
+Para subir um novo arquivo ou atualizar os comandos são:
+git status
+git add .
+git comit -m ""
+git push
