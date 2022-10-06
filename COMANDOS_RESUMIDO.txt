@@ -36,3 +36,6 @@ git checkout -b <branch> master
 -----------------
 Processo PULL REQUEST :
 outro progamador vai avaliar sua modificacão
+-----------------
+Gitiginore
+touch .gitignore 
