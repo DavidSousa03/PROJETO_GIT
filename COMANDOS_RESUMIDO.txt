@@ -1,4 +1,4 @@
-git init 
+git init                                                                              ` `= comentarios 
 git status 
 git add .
 git commit -m ""
@@ -19,6 +19,11 @@ git reset --hard `Colocar id da versão`
 -----------------------
 Criar nova branch:
 git branch
-git branch staging
+git branch `Nome que voce vai declarar sua branch`
 -----------------
-para mudar de branch:	
+para mudar de branch:
+git checkout `nome da branch `	
+----------------
+para mandar da branch criada para a branch master :
+git checkout master 
+git merge staging 
