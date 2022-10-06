@@ -9,3 +9,6 @@ git status
 git add .
 git comit -m ""
 git push
+----------------------
+para ver quantas vesões:
+git reflog
