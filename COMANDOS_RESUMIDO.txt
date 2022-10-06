@@ -21,6 +21,9 @@ Criar nova branch:
 git branch
 git branch `Nome que voce vai declarar sua branch`
 -----------------
+para atualizar tudo que a na branch:
+git pull
+-----------------
 para mudar de branch:
 git checkout `nome da branch `	
 ----------------
