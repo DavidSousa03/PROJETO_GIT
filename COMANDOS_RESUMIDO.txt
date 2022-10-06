@@ -1,5 +1,5 @@
 git init                                                                              ` `= comentarios 
-git status 
+git status                                                                            <branch> = nome da branch que vai criar 
 git add .
 git commit -m ""
 git push
@@ -21,12 +21,15 @@ Criar nova branch:
 git branch
 git branch `Nome que voce vai declarar sua branch`
 -----------------
-para atualizar tudo que a na branch:
+Para atualizar tudo que a na branch:
 git pull
 -----------------
-para mudar de branch:
+Para mudar de branch:
 git checkout `nome da branch `	
 ----------------
-para mandar da branch criada para a branch master :
+Para mandar da branch criada para a branch master :
 git checkout master 
 git merge staging 
+-----------------
+Para criar uma nova branch, com base na principal. Com um comando so:
+git checkout -b <branch> master 
